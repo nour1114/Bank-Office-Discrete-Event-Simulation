@@ -106,6 +106,6 @@ bank-office-simulation/
 
 ## 👤 Author
 
-**Nour El-Sali**  
+**Nour Elsayed**  
 Computer Science & Information Systems Student — Sadat Academy for Management Sciences  
 🔗 [LinkedIn](https://linkedin.com/in/nourelsali) · [GitHub](https://github.com/nour1114)
